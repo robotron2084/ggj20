@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: abab5caab04a59a42a1fbd88a2f3ae99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien Cyborg
+  fontNames:
+  - Alien Cyborg
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 137cf87b571f0aa47bf44260602b4032, type: 3}
+  - {fileID: 12800000, guid: 8fb8d74c1f156ba4fa9449375e32a79f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
